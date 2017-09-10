@@ -1,0 +1,26 @@
+.mylisticon{
+    color: red;
+}
+.navbar-wrapper{
+    z-index:10;
+    position: absolute;
+    top:0;
+    left: 0;
+    right: 0;
+}
+.container{
+    padding: 0;
+}
+
+@media (max-width: 767px){
+    .carousel img {
+        height: 300px!important;
+    }
+}
+.img-text{
+    padding-bottom: 20px;
+}
+.task2{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
